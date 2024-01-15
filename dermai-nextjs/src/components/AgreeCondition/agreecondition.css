@@ -1,0 +1,202 @@
+.agreeCondition-index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.agreeCondition-index .agreeCondition-overlap-wrapper {
+  background-color: #ffffff;
+  height: 932px;
+  overflow: hidden;
+  width: 430px;
+}
+
+.agreeCondition-index .agreeCondition-overlap {
+  background-image: url('../../../public/bg-10@1x.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 932px;
+  left: -2px;
+  position: relative;
+  width: 434px;
+}
+
+.agreeCondition-index .agreeCondition-white-gaussian {
+  height: 928px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 432px;
+}
+
+.agreeCondition-index .agreeCondition-elements {
+  height: 30px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 432px;
+}
+
+.agreeCondition-index .agreeCondition-group {
+  height: 105px;
+  left: 33px;
+  position: absolute;
+  top: 134px;
+  width: 105px;
+}
+
+.agreeCondition-index .agreeCondition-group-wrapper {
+  height: 105px;
+}
+
+.agreeCondition-index .agreeCondition-div-wrapper {
+  background-image: url('../../../public/group-28-1x-png@1x.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 105px;
+  overflow: hidden;
+  width: 105px;
+}
+
+.agreeCondition-index .agreeCondition-div {
+  background-image: url('../../../public/group-30@1x.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 105px;
+}
+
+.agreeCondition-index .agreeCondition-the-results-of-this {
+  color: #3b2416;
+  font-family: "PT Sans", Helvetica;
+  font-size: 21px;
+  font-weight: 700;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.agreeCondition-index .agreeCondition-rectangle {
+  background-color: #f9ede5;
+  border-radius: 23px;
+  filter: blur(3.69px);
+  height: 494px;
+  left: 28px;
+  position: absolute;
+  top: 263px;
+  width: 379px;
+}
+
+.agreeCondition-index .agreeCondition-img {
+  height: 67px;
+  left: 159px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 117px;
+}
+
+.agreeCondition-index .agreeCondition-if-you-think-you-may {
+  color: #603813;
+  font-family: "PT Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 487px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 274px;
+  width: 332px;
+}
+
+.agreeCondition-index .agreeCondition-rectangle-2 {
+  background-color: #575757;
+  border-radius: 3px;
+  height: 6px;
+  left: 137px;
+  position: absolute;
+  top: 916px;
+  width: 160px;
+}
+
+.agreeCondition-index .agreeCondition-rectangle-3 {
+  background-color: #eadacd;
+  border-radius: 5px;
+  height: 454px;
+  left: 400px;
+  position: absolute;
+  top: 284px;
+  width: 10px;
+}
+
+.agreeCondition-index .agreeCondition-rectangle-4 {
+  background-color: #baa18a;
+  border-radius: 5px;
+  height: 240px;
+  left: 400px;
+  position: absolute;
+  top: 498px;
+  width: 10px;
+}
+
+.agreeCondition-index .agreeCondition-component {
+  height: 58px;
+  left: 97px;
+  position: absolute;
+  top: 777px;
+  width: 250px;
+}
+
+.agreeCondition-index .agreeCondition-overlap-group {
+  height: 58px;
+  position: relative;
+}
+
+.agreeCondition-index .agreeCondition-overlap-group-wrapper {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.agreeCondition-index .agreeCondition-rectangle-5 {
+  background: linear-gradient(90deg, #ffffff 0%, #baa18a 100%);
+  border-radius: 26px;
+  filter: blur(7.59px);
+  height: 51px;
+  left: 10px;
+  position: absolute;
+  top: 7px;
+  width: 240px;
+}
+
+.agreeCondition-index .agreeCondition-rectangle-6 {
+  background: linear-gradient(90deg, #ffffff 0%, #f7ded9 100%);
+  border-radius: 26px;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.agreeCondition-index .agreeCondition-text-wrapper {
+  color: #3b2416;
+  font-family: "PT Sans", Helvetica;
+  font-size: 27px;
+  font-weight: 700;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}

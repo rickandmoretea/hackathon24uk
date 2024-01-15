@@ -1,0 +1,242 @@
+.homePage-index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.homePage-index .homePage-overlap-wrapper {
+  background-color: #ffffff;
+  height: 932px;
+  overflow: hidden;
+  width: 430px;
+}
+
+.homePage-index .homePage-overlap {
+  height: 1319px;
+  left: -44px;
+  position: relative;
+  top: -212px;
+  width: 651px;
+}
+
+.homePage-index .homePage-BG {
+  height: 932px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 434px;
+}
+
+.homePage-index .homePage-elements {
+  height: 205px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 556px;
+  width: 356px;
+}
+
+.homePage-index .homePage-text-wrapper {
+  color: #3b2416;
+  font-family: "PT Sans", Helvetica;
+  font-size: 29px;
+  font-style: italic;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  top: 524px;
+  white-space: nowrap;
+}
+
+.homePage-index .homePage-component {
+  background: linear-gradient(90deg, #ffffff 0%, #baa18a 100%);
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 34px;
+  height: 68px;
+  left: 122px;
+  position: absolute;
+  top: 864px;
+  width: 279px;
+}
+
+.homePage-index .homePage-div {
+  color: #3b2416;
+  font-family: "PT Sans", Helvetica;
+  font-size: 27px;
+  font-weight: 700;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.homePage-index .homePage-ellipse {
+  background-color: #ffffff;
+  border-radius: 24px;
+  height: 48px;
+  left: 8px;
+  position: absolute;
+  top: 9px;
+  width: 48px;
+}
+
+.homePage-index .homePage-group {
+  height: 23px;
+  left: 143px;
+  position: absolute;
+  top: 942px;
+  width: 235px;
+}
+
+.homePage-index .homePage-overlap-group {
+  height: 23px;
+  position: relative;
+  top: 2px;
+}
+
+.homePage-index .homePage-p {
+  color: #3b2416;
+  font-family: "PT Sans", Helvetica;
+  font-size: 17.4px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homePage-index .homePage-rectangle {
+  background-color: #3b2416;
+  height: 2px;
+  left: 194px;
+  position: absolute;
+  top: 19px;
+  width: 38px;
+  }.homePage-index .homePage-group-2 {
+background-image: url('../../../public/group-25-1@1x.png');
+background-position: 50% 50%;
+background-size: cover;
+height: 376px;
+left: 0;
+position: absolute;
+top: 943px;
+width: 376px;
+}
+
+.homePage-index .homePage-group-wrapper {
+height: 464px;
+left: 187px;
+position: absolute;
+top: 0;
+width: 464px;
+}
+
+.homePage-index .homePage-overlap-group-wrapper {
+height: 464px;
+}
+
+.homePage-index .homePage-overlap-group-2 {
+height: 464px;
+position: relative;
+width: 464px;
+}
+
+.homePage-index .homePage-group-3 {
+background-image: url('../../../public/group-16-1@1x.png');
+background-position: 50% 50%;
+background-size: cover;
+height: 462px;
+left: 1px;
+position: absolute;
+top: 1px;
+width: 462px;
+}
+
+.homePage-index .homePage-group-4 {
+background-image: url('../../../public/group-18-1@1x.png');
+background-position: 50% 50%;
+background-size: cover;
+height: 464px;
+left: 0;
+position: absolute;
+top: 0;
+width: 464px;
+}
+
+.homePage-index .homePage-img {
+height: 30px;
+left: 44px;
+object-fit: cover;
+position: absolute;
+top: 224px;
+width: 432px;
+}
+.homePage-index .homePage-group-2 {
+  background-image: url('../../../public/group-25-1@1x.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 376px;
+  left: 0;
+  position: absolute;
+  top: 943px;
+  width: 376px;
+  }
+  
+  .homePage-index .homePage-group-wrapper {
+  height: 464px;
+  left: 187px;
+  position: absolute;
+  top: 0;
+  width: 464px;
+  }
+  
+  .homePage-index .homePage-overlap-group-wrapper {
+  height: 464px;
+  }
+  
+  .homePage-index .homePage-overlap-group-2 {
+  height: 464px;
+  position: relative;
+  width: 464px;
+  }
+  
+  .homePage-index .homePage-group-3 {
+  background-image: url('../../../public/group-16-1@1x.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 462px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 462px;
+  }
+  
+  .homePage-index .homePage-group-4 {
+  background-image: url('../../../public/group-18-1@1x.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 464px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 464px;
+  }
+  
+  .homePage-index .homePage-img {
+  height: 30px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 432px;
+  }
