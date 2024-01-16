@@ -1,12 +1,17 @@
-import React from 'react';
-import { useRouter } from 'next/router';
+import React, {useState} from 'react';
 import "@/components/HomePage/homepage.css";
+import AgreeCondition from "@/pages/agreecondition";
 
 export const HomePage = (): JSX.Element => {
-    const router = useRouter();
+    const [isGetStartedClicked, setIsGetStartedClicked] = useState(false);
+
     const handleGetStartedClick = () => {
-      router.push('/agreecondition');
+        setIsGetStartedClicked(true);
     };
+
+    if (isGetStartedClicked){
+      return <AgreeCondition />
+    }
 
     return (
       <div className="homePage-index">
@@ -47,3 +52,6 @@ export const HomePage = (): JSX.Element => {
       </div>
     );
 };
+
+export default HomePage;
+

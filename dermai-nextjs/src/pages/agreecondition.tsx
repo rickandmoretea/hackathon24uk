@@ -1,7 +1,20 @@
 import React from "react";
 import "@/components/AgreeCondition/agreecondition.css";
+import Register from "@/pages/register";
 
 export const AgreeCondition = () => {
+
+  const [isAcceptClicked, setIsAcceptClicked] = React.useState(false);
+
+  const handleAcceptClick = () => {
+    setIsAcceptClicked(true);
+  }
+
+  if (isAcceptClicked) {
+    return <Register />
+  }
+
+
     return (
         <div className="agreeCondition-index">
           <div className="agreeCondition-overlap-wrapper">
@@ -49,7 +62,7 @@ export const AgreeCondition = () => {
                       <div className="agreeCondition-rectangle-6" />
                     </div>
                   </div>
-                  <div className="agreeCondition-text-wrapper">I ACCEPT</div>
+                  <div className="agreeCondition-text-wrapper" onClick={handleAcceptClick}>I ACCEPT</div>
                 </div>
               </div>
             </div>
