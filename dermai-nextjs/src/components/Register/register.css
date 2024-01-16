@@ -1,410 +1,417 @@
 .register-index {
-    background-color: #ffffff;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-  }
-  
-  .register-index .register-overlap-wrapper {
-    background-color: #ffffff;
-    height: 932px;
-    overflow: hidden;
-    width: 430px;
-  }
-  
-  .register-index .register-overlap {
-    background-image: url(https://cdn.animaapp.com/projects/65a16855c864dfeca2380544/releases/65a40a309aa2a391615fe8ec/img/bg-3--register--1@1x.png);
-    background-position: 50% 50%;
-    background-size: cover;
-    height: 935px;
-    left: -3px;
-    position: relative;
-    width: 436px;
-  }
-  
-  .register-index .register-elements {
-    height: 30px;
-    left: 3px;
-    object-fit: cover;
-    position: absolute;
-    top: 12px;
-    width: 432px;
-  }
-  
-  .register-index .register-BG-register {
-    height: 930px;
-    left: 2px;
-    object-fit: cover;
-    position: absolute;
-    top: 1px;
-    width: 433px;
-  }
-  
-  .register-index .register-rectangle {
-    -webkit-backdrop-filter: blur(6.09px) brightness(101.79%);
-    backdrop-filter: blur(6.09px) brightness(101.79%);
-    background-color: #f9f0e608;
-    border-radius: 37px;
-    height: 643px;
-    left: 35px;
-    position: absolute;
-    top: 175px;
-    width: 367px;
-  }
-  
-  .register-index .register-component {
-    height: 58px;
-    left: 98px;
-    position: absolute;
-    top: 777px;
-    width: 250px;
-  }
-  
-  .register-index .register-overlap-group {
-    height: 58px;
-    position: relative;
-  }
-  
-  .register-index .register-group {
-    height: 58px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 250px;
-  }
-  
-  .register-index .register-div {
-    background: linear-gradient(90deg, #ffffff 0%, #baa18a 100%);
-    border-radius: 26px;
-    filter: blur(7.59px);
-    height: 51px;
-    left: 10px;
-    position: absolute;
-    top: 7px;
-    width: 240px;
-  }
-  
-  .register-index .register-rectangle-2 {
-    background-color: #ffffff;
-    border-radius: 26px;
-    height: 51px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 240px;
-  }
-  
-  .register-index .register-text-wrapper {
-    color: #3b2416;
-    font-family: "PT Sans", Helvetica;
-    font-size: 27px;
-    font-weight: 700;
-    left: 89px;
-    letter-spacing: 0;
-    line-height: 27px;
-    position: absolute;
-    top: 12px;
-    white-space: nowrap;
-  }
-  
-  .register-index .register-rectangle-3 {
-    background-color: #575757;
-    border-radius: 3px;
-    height: 6px;
-    left: 138px;
-    position: absolute;
-    top: 916px;
-    width: 160px;
-  }
-  
-  .register-index .register-group-2 {
-    height: 15px;
-    left: 136px;
-    position: absolute;
-    top: 853px;
-    width: 165px;
-  }
-  
-  .register-index .register-ellipse {
-    background-color: #baa18a;
-    border-radius: 7.5px;
-    height: 15px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 15px;
-  }
-  
-  .register-index .register-ellipse-2 {
-    background-color: #eadace;
-    border-radius: 7.5px;
-    height: 15px;
-    left: 50px;
-    position: absolute;
-    top: 0;
-    width: 15px;
-  }
-  
-  .register-index .register-ellipse-3 {
-    background-color: #eadace;
-    border-radius: 7.5px;
-    height: 15px;
-    left: 100px;
-    position: absolute;
-    top: 0;
-    width: 15px;
-  }
-  
-  .register-index .register-ellipse-4 {
-    background-color: #eadace;
-    border-radius: 7.5px;
-    height: 15px;
-    left: 150px;
-    position: absolute;
-    top: 0;
-    width: 15px;
-  }
-  
-  .register-index .register-text-wrapper-2 {
-    -webkit-text-stroke: 1px #3b2416;
-    color: #3b2416;
-    font-family: "Diphylleia", Helvetica;
-    font-size: 33px;
-    font-weight: 400;
-    left: 62px;
-    letter-spacing: 0;
-    line-height: 33px;
-    position: absolute;
-    top: 128px;
-    white-space: nowrap;
-  }
-  
-  .register-index .register-i-agree-with-term {
-    color: #3a2417;
-    font-family: "PT Sans", Helvetica;
-    font-size: 16px;
-    font-weight: 400;
-    height: 41px;
-    left: 87px;
-    letter-spacing: 0;
-    line-height: 19px;
-    position: absolute;
-    top: 448px;
-    width: 218px;
-  }
-  
-  .register-index .register-overlap-group-wrapper {
-    height: 49px;
-    left: 35px;
-    position: absolute;
-    top: 239px;
-    width: 367px;
-  }
-  
-  .register-index .register-overlap-2 {
-    border-radius: 25px;
-    height: 49px;
-    position: relative;
-  }
-  
-  .register-index .register-subtraction-wrapper {
-    background-color: #ffffff;
-    border-radius: 25px;
-    height: 49px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 367px;
-  }
-  
-  .register-index .register-subtraction {
-    height: 25px;
-    left: 0;
-    object-fit: cover;
-    position: absolute;
-    top: 24px;
-    width: 367px;
-  }
-  
-  .register-index .register-text-wrapper-3 {
-    color: #9e9b93;
-    font-family: "PT Sans", Helvetica;
-    font-size: 20px;
-    font-weight: 400;
-    height: 25px;
-    left: 31px;
-    letter-spacing: 0;
-    line-height: 19px;
-    overflow: hidden;
-    position: absolute;
-    top: 12px;
-    width: 54px;
-  }
-  
-  .register-index .register-text-wrapper-4 {
-    color: #3a2417;
-    font-family: "PT Sans", Helvetica;
-    font-size: 16px;
-    font-weight: 400;
-    height: 22px;
-    left: 87px;
-    letter-spacing: 0;
-    line-height: 19px;
-    position: absolute;
-    top: 502px;
-    white-space: nowrap;
-    width: 133px;
-  }
-  
-  .register-index .register-div-wrapper {
-    height: 49px;
-    left: 229px;
-    position: absolute;
-    top: 373px;
-    width: 170px;
-  }
-  
-  .register-index .register-img-wrapper {
-    background-color: #ffffff;
-    border-radius: 25px;
-    height: 49px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 170px;
-  }
-  
-  .register-index .register-img {
-    height: 25px;
-    left: 0;
-    object-fit: cover;
-    position: absolute;
-    top: 24px;
-    width: 170px;
-  }
-  
-  .register-index .register-text-wrapper-5 {
-    color: #9e9b93;
-    font-family: "PT Sans", Helvetica;
-    font-size: 20px;
-    font-weight: 400;
-    height: 25px;
-    left: 29px;
-    letter-spacing: 0;
-    line-height: 19px;
-    overflow: hidden;
-    position: absolute;
-    top: 12px;
-    width: 62px;
-  }
-  
-  .register-index .register-group-3 {
-    height: 27px;
-    left: 135px;
-    position: absolute;
-    top: 11px;
-    width: 13px;
-  }
-  
-  .register-index .register-polygon {
-    height: 10px;
-    left: 0;
-    object-fit: cover;
-    position: absolute;
-    top: 0;
-    width: 13px;
-  }
-  
-  .register-index .register-polygon-2 {
-    height: 10px;
-    left: 0;
-    object-fit: cover;
-    position: absolute;
-    top: 17px;
-    width: 13px;
-  }
-  
-  .register-index .register-path-wrapper {
-    background-color: #ccb095;
-    border-radius: 10px;
-    height: 20px;
-    left: 55px;
-    position: absolute;
-    top: 503px;
-    width: 20px;
-  }
-  
-  .register-index .register-path {
-    height: 16px;
-    left: 3px;
-    object-fit: cover;
-    position: absolute;
-    top: -1px;
-    width: 20px;
-  }
-  
-  .register-index .register-component-2 {
-    height: 49px;
-    left: 229px;
-    position: absolute;
-    top: 306px;
-    width: 170px;
-  }
-  
-  .register-index .register-text-wrapper-6 {
-    color: #9e9b93;
-    font-family: "PT Sans", Helvetica;
-    font-size: 20px;
-    font-weight: 400;
-    height: 25px;
-    left: 29px;
-    letter-spacing: 0;
-    line-height: 19px;
-    overflow: hidden;
-    position: absolute;
-    top: 12px;
-    width: 64px;
-  }
-  
-  .register-index .register-component-3 {
-    height: 49px;
-    left: 37px;
-    position: absolute;
-    top: 373px;
-    width: 170px;
-  }
-  
-  .register-index .register-component-4 {
-    background-color: #ccb095;
-    border-radius: 10px;
-    height: 20px;
-    left: 55px;
-    position: absolute;
-    top: 449px;
-    width: 20px;
-  }
-  
-  .register-index .register-component-5 {
-    height: 49px;
-    left: 37px;
-    position: absolute;
-    top: 306px;
-    width: 170px;
-  }
-  
-  .register-index .register-text-wrapper-7 {
-    color: #9e9b93;
-    font-family: "PT Sans", Helvetica;
-    font-size: 20px;
-    font-weight: 400;
-    height: 25px;
-    left: 29px;
-    letter-spacing: 0;
-    line-height: 19px;
-    overflow: hidden;
-    position: absolute;
-    top: 12px;
-    width: 54px;
-  }
-  
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.register-index .register-overlap-wrapper {
+  background-color: #ffffff;
+  height: 932px;
+  overflow: hidden;
+  width: 430px;
+}
+
+.register-index .register-overlap {
+  background-image: url(https://cdn.animaapp.com/projects/65a16855c864dfeca2380544/releases/65a40a309aa2a391615fe8ec/img/bg-3--register--1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 935px;
+  left: -3px;
+  position: relative;
+  width: 436px;
+}
+
+.register-index .register-elements {
+  height: 30px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 432px;
+}
+
+.register-index .register-BG-register {
+  height: 930px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 433px;
+}
+
+.register-index .register-rectangle {
+  -webkit-backdrop-filter: blur(6.09px) brightness(101.79%);
+  backdrop-filter: blur(6.09px) brightness(101.79%);
+  background-color: #f9f0e608;
+  border-radius: 37px;
+  height: 643px;
+  left: 35px;
+  position: absolute;
+  top: 175px;
+  width: 367px;
+}
+
+.register-index .register-component {
+  height: 58px;
+  left: 98px;
+  position: absolute;
+  top: 777px;
+  width: 250px;
+}
+
+.register-index .register-overlap-group {
+  height: 58px;
+  position: relative;
+}
+
+.register-index .register-group {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.register-index .register-div {
+  background: linear-gradient(90deg, #ffffff 0%, #baa18a 100%);
+  border-radius: 26px;
+  filter: blur(7.59px);
+  height: 51px;
+  left: 10px;
+  position: absolute;
+  top: 7px;
+  width: 240px;
+}
+
+.register-index .register-rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 26px;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.register-index .register-text-wrapper {
+  color: #3b2416;
+  font-family: "PT Sans", Helvetica;
+  font-size: 27px;
+  font-weight: 700;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.register-index .register-rectangle-3 {
+  background-color: #575757;
+  border-radius: 3px;
+  height: 6px;
+  left: 138px;
+  position: absolute;
+  top: 916px;
+  width: 160px;
+}
+
+.register-index .register-group-2 {
+  height: 15px;
+  left: 136px;
+  position: absolute;
+  top: 853px;
+  width: 165px;
+}
+
+.register-index .register-ellipse {
+  background-color: #baa18a;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.register-index .register-ellipse-2 {
+  background-color: #eadace;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 50px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.register-index .register-ellipse-3 {
+  background-color: #eadace;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.register-index .register-ellipse-4 {
+  background-color: #eadace;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 150px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.register-index .register-text-wrapper-2 {
+  -webkit-text-stroke: 1px #3b2416;
+  color: #3b2416;
+  font-family: "Diphylleia", Helvetica;
+  font-size: 33px;
+  font-weight: 400;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.register-index .register-i-agree-with-term {
+  color: #3a2417;
+  font-family: "PT Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 41px;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 448px;
+  width: 218px;
+}
+
+.register-index .register-overlap-group-wrapper {
+  height: 49px;
+  left: 35px;
+  position: absolute;
+  top: 239px;
+  width: 367px;
+}
+
+.register-index .register-overlap-2 {
+  border-radius: 25px;
+  height: 49px;
+  position: relative;
+}
+
+.register-index .register-subtraction-wrapper {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 367px;
+}
+
+.register-index .register-subtraction {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 367px;
+}
+
+.register-index .register-name {
+  background-color: transparent;
+  border: 0;
+  color: #9e9b93;
+  font-family: "PT Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 25px;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 19px;
+  padding: 0;
+  position: absolute;
+  top: 11px;
+  width: 308px;
+}
+
+.register-index .register-text-wrapper-3 {
+  color: #3a2417;
+  font-family: "PT Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 22px;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 502px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.register-index .register-div-wrapper {
+  height: 49px;
+  left: 229px;
+  position: absolute;
+  top: 373px;
+  width: 170px;
+}
+
+.register-index .register-img-wrapper {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.register-index .register-img {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 170px;
+}
+
+.register-index .register-input {
+  background-color: transparent;
+  border: 0;
+  color: #9e9b93;
+  font-family: "PT Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 25px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 19px;
+  padding: 0;
+  position: absolute;
+  top: 11px;
+  width: 95px;
+}
+
+.register-index .register-group-3 {
+  height: 27px;
+  left: 135px;
+  position: absolute;
+  top: 11px;
+  width: 13px;
+}
+
+.register-index .register-polygon {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.register-index .register-polygon-2 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 13px;
+}
+
+.register-index .register-path-wrapper {
+  background-color: #ccb095;
+  border-radius: 10px;
+  height: 20px;
+  left: 55px;
+  position: absolute;
+  top: 503px;
+  width: 20px;
+}
+
+.register-index .register-path {
+  height: 16px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+
+.register-index .register-component-2 {
+  height: 49px;
+  left: 229px;
+  position: absolute;
+  top: 306px;
+  width: 170px;
+}
+
+.register-index .register-component-3 {
+  height: 49px;
+  left: 37px;
+  position: absolute;
+  top: 373px;
+  width: 170px;
+}
+
+.register-index .register-weight {
+  background-color: transparent;
+  border: 0;
+  color: #9e9b93;
+  font-family: "PT Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 25px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 19px;
+  padding: 0;
+  position: absolute;
+  top: 11px;
+  width: 94px;
+}
+
+.register-index .register-component-4 {
+  background-color: #ccb095;
+  border-radius: 10px;
+  height: 20px;
+  left: 55px;
+  position: absolute;
+  top: 449px;
+  width: 20px;
+}
+
+.register-index .register-component-5 {
+  height: 49px;
+  left: 41px;
+  position: absolute;
+  top: 306px;
+  width: 170px;
+}
+
+.register-index .register-age {
+  background-color: transparent;
+  border: 0;
+  color: #9e9b93;
+  font-family: "PT Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 25px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 19px;
+  padding: 0;
+  position: absolute;
+  top: 11px;
+  width: 89px;
+}
